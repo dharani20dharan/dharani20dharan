@@ -29,7 +29,7 @@ I'm Dharanidharan M, an undergraduate at Shiv Nadar University, Chennai speciali
 - 🔭 Third Year B.Tech Student in AI & DS  
 - 📚 Skilled in Machine Learning, Data Analytics, and Full-Stack Development  
 - ⚡ Experienced with handling large datasets, building predictive models, and developing scalable applications  
-- 🎯 Currently working on full-stack projects, ML/DS mini-projects, and AI-powered tools for real-world applications  
+- 🎯 Currently working on full-stack projects, ML/DS projects, and AI-powered tools for real-world applications  
 </p>
 
 ###
@@ -95,19 +95,7 @@ I'm Dharanidharan M, an undergraduate at Shiv Nadar University, Chennai speciali
 - Tools: Python (scikit-learn, TensorFlow, PyTorch), Data Visualization  
 
 ### 🏆 Certificates
-
-- [NPTEL – Introduction to LLM](https://github.com/dharani20dharan/Certificates)  
-- [Google – GenAI Exchange Program](https://github.com/dharani20dharan/Certificates)  
-- [Guvi, Great Learning – AI & DS Certificates](https://github.com/dharani20dharan/Certificates)  
 - [View All Certificates](https://github.com/dharani20dharan/Certificates)
-
-<h3 align="left">📈 GitHub Stats</h3>
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharani20dharan&theme=dark&hide_border=false" height="180"  />
-</div>
-
 
 ###
 
