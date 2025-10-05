@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif"  />
+  <img height="220" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif"  />
 </div>
 
 ###
@@ -37,9 +37,7 @@ I'm Dharanidharan M, an undergraduate at Shiv Nadar University, Chennai speciali
 <h3 align="left">🎓 Education</h3>
 
 <p align="left">
-<h3>Shiv Nadar University, Chennai — B.Tech in Artificial Intelligence & Data Science (Aug 2023 – May 2027)</h3>
-- Core CS: Data Structures, Algorithms, OOP, OS, Computer Networks, SQL  
-- Specialization: AI, Foundation of Data Science, Data Pre-processing, Exploratory Data Analysis, ML, Deep Learning, LLMs
+<h4>Shiv Nadar University, Chennai — B.Tech in Artificial Intelligence & Data Science (Aug 2023 – May 2027)</h4>
 </p>
 
 ###
@@ -47,11 +45,11 @@ I'm Dharanidharan M, an undergraduate at Shiv Nadar University, Chennai speciali
 <h3 align="left">💼 Experience</h3>
 
 <p align="left">
-<h3>Data Scientist Intern, ParticleBlack – Chennai (Jul 2025 – Sept 2025)</h3>
+<h4>Data Scientist Intern, ParticleBlack – Chennai (Jul 2025 – Sept 2025)</h4>
 - Preprocessed and refined large-scale U.S. housing datasets for client decision-making  
 - Generated actionable insights to support real estate analytics  
 
-<h3>Machine Learning Summer School, Amazon (Virtual) (Aug 2025 – Sept 2025)</h3>
+<h4>Machine Learning Summer School, Amazon (Virtual) (Aug 2025 – Sept 2025)</h4>
 - Hands-on exposure to Supervised Learning, Deep Learning, Probabilistic Models, Reinforcement Learning, and Generative AI  
 - Studied applications of ML in recommendation engines, computer vision, and NLP
 </p>
