@@ -89,10 +89,10 @@ I'm Dharanidharan M, an undergraduate at Shiv Nadar University, Chennai speciali
 - Developed predictive models for real estate analytics using large-scale U.S. housing data  
 - Tools: Python, MySQL, PostgreSQL  
 
-**[ML/DS Mini-Projects](https://github.com/dharani20dharan?tab=repositories)**  
-- Built models using Linear/Logistic Regression, SVM, KNN, K-Means, GMM, CNN, RNN  
-- Conducted EDA, feature engineering, and model optimization  
-- Tools: Python (scikit-learn, TensorFlow, PyTorch), Data Visualization  
+**[ML/DS Projects](https://github.com/dharani20dharan?tab=repositories)**  
+- Developed and deployed ML and DL models across supervised, unsupervised, and neural network techniques (Linear/Logistic Regression, SVM, KNN, K-Means, GMM, CNN, RNN, LSTM, GRU) 
+- Implemented recommendation systems, sentiment analysis, face recognition, and neural networks from scratch, performing EDA, feature engineering, and model optimization to extract actionable insights 
+- Tools: Python (scikit-learn, PyTorch, TensorFlow, NLTK, Transformers), data visualization, and model evaluation
 
 ### 🏆 Certificates
 - [View All Certificates](https://github.com/dharani20dharan/Certificates)
