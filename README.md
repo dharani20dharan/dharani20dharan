@@ -1,101 +1,163 @@
 <div align="center">
-  <img height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif"  />
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif" height="180"/>
+
+# Dharanidharan M
+
+### AI Systems Engineer • Applied AI • Distributed AI Systems
+
+Building intelligent real-world systems using
+Machine Learning, Multi-Agent AI, Knowledge Graphs, and Full Stack Engineering.
+
+<br>
+
+<a href="https://www.linkedin.com/in/dharani-dharan-8728ab2b2/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dharani20dharan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:dharani080905@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
-###
+---
+
+# 👨‍💻 About Me
+
+Artificial Intelligence & Data Science undergraduate at **Shiv Nadar University Chennai** focused on designing scalable AI-powered systems for real-world applications.
+
+### Areas of Interest
+
+* Multi-Agent AI Systems
+* Distributed AI & Real-Time Pipelines
+* Computer Vision
+* Knowledge Graphs
+* NLP & Information Extraction
+* Full Stack AI Applications
+
+Currently working on:
+
+* Real-time maritime intelligence systems
+* Autonomous threat assessment workflows
+* Knowledge graph reasoning systems
+* AI-powered anomaly detection pipelines
+
+---
+
+# 💼 Experience
+
+## AI/ML Intern — DRDO CAIR
+
+**Jan 2026 – Present**
+
+* Developed NLP-based event extraction pipelines using BERT + CRF with BILOU tagging
+* Built knowledge graph workflows integrating 61,000+ vessel nodes and 3,000+ sanction entities
+* Co-developed a multi-agent maritime surveillance AI framework
+* Engineered real-time AI pipelines using Kafka, Cassandra, Neo4j, FastAPI, and Streamlit
+* Implemented AIS spoofing detection, EEZ violation analysis, and dark-vessel tracking workflows
+
+---
+
+## Data Scientist Intern — ParticleBlack
+
+**Jul 2025 – Sep 2025**
+
+* Built scalable preprocessing pipelines for multi-million-record real estate datasets
+* Performed large-scale EDA, anomaly analysis, and statistical validation
+* Optimized memory-efficient structured data processing workflows
+
+---
+
+# 🚀 Flagship Projects
+
+## 🌊 Maritime AI Framework
+
+Real-time multi-agent maritime intelligence platform for:
+
+* Vessel anomaly detection
+* Autonomous threat assessment
+* AIS spoofing analysis
+* Knowledge graph reasoning
+* Real-time telemetry processing
+
+**Tech Stack:**
+Python • FastAPI • Kafka • Cassandra • Neo4j • Streamlit • Ollama
+
+---
+
+## 🛡️ Vritti — AI-Powered Income Protection Platform
+
+AI-powered platform for gig-worker income protection using:
+
+* Fraud detection pipelines
+* Civic disruption intelligence
+* Dynamic risk modeling
+* Event-triggered payout orchestration
+
+**Tech Stack:**
+FastAPI • Neo4j • PostgreSQL • Flutter • TensorFlow Lite • LLMs
+
+---
+
+## 📸 Capturesque — Scalable University Photography Platform
+
+Full-stack intelligent media management platform designed for scalable university event workflows.
+
+Features:
+
+* Role-based authentication
+* Secure media access
+* Bulk upload workflows
+* Scalable image retrieval systems
+
+**Tech Stack:**
+React • Flask • JWT • SQLite
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+Python • C • C++ • Java • SQL • JavaScript • TypeScript
+
+### AI / ML
+
+PyTorch • TensorFlow • scikit-learn • Transformers • OpenCV
+
+### Distributed Systems
+
+Kafka • Cassandra • Neo4j • Apache NiFi
+
+### Backend & Full Stack
+
+FastAPI • Flask • Node.js • React • PostgreSQL
+
+### Tools
+
+Docker • Git • Linux • Streamlit • Ollama • CI/CD
+
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dharani-dharan-8728ab2b2/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/dharani20dharan">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
-  </a>
-  <a href="mailto:dharani080905@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dharani20dharan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharani20dharan&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-###
+---
 
-<h1 align="center">Hey there 👋</h1>
+# 📫 Connect With Me
 
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-<p align="left">
-I'm Dharanidharan M, an undergraduate at Shiv Nadar University, Chennai specializing in Artificial Intelligence & Data Science.<br><br>
-- 🔭 Third Year B.Tech Student in AI & DS  
-- 📚 Skilled in Machine Learning, Data Analytics, and Full-Stack Development  
-- ⚡ Experienced with handling large datasets, building predictive models, and developing scalable applications  
-- 🎯 Currently working on full-stack projects, ML/DS projects, and AI-powered tools for real-world applications  
-</p>
-
-###
-
-<h3 align="left">🎓 Education</h3>
-
-<p align="left">
-<h4>Shiv Nadar University, Chennai — B.Tech in Artificial Intelligence & Data Science (Aug 2023 – May 2027)</h4>
-</p>
-
-###
-
-<h3 align="left">💼 Experience</h3>
-
-<p align="left">
-<h4>Data Scientist Intern, ParticleBlack – Chennai (Jul 2025 – Sept 2025)</h4>
-- Preprocessed and refined large-scale U.S. housing datasets for client decision-making  
-- Generated actionable insights to support real estate analytics  
-
-<h4>Machine Learning Summer School, Amazon (Virtual) (Aug 2025 – Sept 2025)</h4>
-- Hands-on exposure to Supervised Learning, Deep Learning, Probabilistic Models, Reinforcement Learning, and Generative AI  
-- Studied applications of ML in recommendation engines, computer vision, and NLP
-</p>
-
-###
-
-<h3 align="left">🛠 Languages & Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">📂 Projects</h3>
-
-**[Shiv Nadar University Photography Gallery Website (Ongoing)](https://github.com/dharani20dharan/Capturesque_Final)**   
-- Designing a full-stack platform for students to access and discover event photos  
-- Integrating facial recognition for automated tagging (work in progress)  
-- Tools: React, Flask, MySQL, CNN, Cloud Services  
-
-**[Project Nedl – US Real Estate Dataset](https://github.com/dharani20dharan/Nedl_Project)**  
-- Developed predictive models for real estate analytics using large-scale U.S. housing data  
-- Tools: Python, MySQL, PostgreSQL  
-
-**[ML/DS Projects](https://github.com/dharani20dharan?tab=repositories)**  
-- Developed and deployed ML and DL models across supervised, unsupervised, and neural network techniques (Linear/Logistic Regression, SVM, KNN, K-Means, GMM, CNN, RNN, LSTM, GRU) 
-- Implemented recommendation systems, sentiment analysis, face recognition, and neural networks from scratch, performing EDA, feature engineering, and model optimization to extract actionable insights 
-- Tools: Python (scikit-learn, PyTorch, TensorFlow, NLTK, Transformers), data visualization, and model evaluation
-
-### 🏆 Certificates
-- [View All Certificates](https://github.com/dharani20dharan/Certificates)
-
-###
-
+* LinkedIn: https://linkedin.com/in/dharani-dharan-8728ab2b2
+* GitHub: https://github.com/dharani20dharan
+* Email: [dharani080905@gmail.com](mailto:dharani080905@gmail.com)
