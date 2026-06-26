@@ -143,21 +143,3 @@ FastAPI • Flask • Node.js • React • PostgreSQL
 Docker • Git • Linux • Streamlit • Ollama • CI/CD
 
 ---
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dharani20dharan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharani20dharan&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-* LinkedIn: https://linkedin.com/in/dharani-dharan-8728ab2b2
-* GitHub: https://github.com/dharani20dharan
-* Email: [dharani080905@gmail.com](mailto:dharani080905@gmail.com)
